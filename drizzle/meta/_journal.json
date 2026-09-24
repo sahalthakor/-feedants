@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790249091533,
+      "tag": "0000_tiny_clea",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1790249298900,
+      "tag": "0001_certain_sprite",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1790251161455,
+      "tag": "0002_lowly_marvex",
+      "breakpoints": true
+    }
+  ]
+}
