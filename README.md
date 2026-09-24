@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Feedants Competition Details — Full Stack Assignment
 
 A full-stack implementation of the Feedants Competition Details screen built for the Feedants Full Stack Development Internship Technical Assignment.
@@ -497,3 +498,7 @@ The final submission should include:
 
 Full Stack Development Assignment  
 Feedants
+=======
+# -feedants
+project
+>>>>>>> c4043397063250d7a1bb2dfb06160e43063cba7f
